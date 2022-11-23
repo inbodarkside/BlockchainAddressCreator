@@ -27,15 +27,6 @@
 </details>
 
 
-## About The Project
-
-
-The SimpleLandlordControlTool is an online app that enables users to check for their contribution points in the League of Kingdoms game.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
 ### Built With
 
 * [Python](https://www.python.org/)
